@@ -1,0 +1,36 @@
+input: .
+output: .retype
+url: jeetardswiki.in
+branding:
+  title: NeetardsWiki
+  label: 
+links:
+- text: Reddit
+  link: https://www.reddit.com/r/JEENEETards/
+  icon: feed-rocket
+  target: blank
+
+- text: Discord
+  link: https://discord.com/invite/37h2JumCkd
+  icon: comment-discussion
+  target: blank
+
+- text: Telegram
+  link: https://telegram.me/JEENEETardsOG
+  icon: paper-airplane
+  target: blank
+
+footer:
+  links:
+    - text: Home
+      link: index.md  
+      icon: home
+
+    - text: Guides
+      link: /Guides/Ultimate Guide.md
+      icon: info
+
+    - text: Resources
+      link: /Study Materials/Books.md
+      icon: ruby
+

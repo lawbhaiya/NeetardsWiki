@@ -1,0 +1,149 @@
+{
+  "version": "3.6.0",
+  "created": "2025-01-23T13:22:07Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "backup\\index.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "credits\\index.html"
+    },
+    {
+      "path": "guides\\embed\\index.html",
+      "old": true
+    },
+    {
+      "path": "guides\\guide\\index.html",
+      "old": true
+    },
+    {
+      "path": "guides\\index.html",
+      "old": true
+    },
+    {
+      "path": "guides\\summarised\\index.html",
+      "old": true
+    },
+    {
+      "path": "guides\\teachers\\index.html"
+    },
+    {
+      "path": "guides\\ultimate-guide\\index.html"
+    },
+    {
+      "path": "guides\\yt-feed\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "introduction\\faq\\index.html"
+    },
+    {
+      "path": "introduction\\neet\\index.html"
+    },
+    {
+      "path": "introduction\\registration\\index.html"
+    },
+    {
+      "path": "neetardspic.jpg"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "study-materials\\books\\index.html"
+    },
+    {
+      "path": "study-materials\\modules\\index.html"
+    },
+    {
+      "path": "study-materials\\notes-mindmaps\\index.html"
+    },
+    {
+      "path": "study-materials\\others\\index.html"
+    },
+    {
+      "path": "study-materials\\pyq-solving\\index.html"
+    },
+    {
+      "path": "study-materials\\test-series\\index.html"
+    },
+    {
+      "path": "studymaterials\\books\\index.html",
+      "old": true
+    },
+    {
+      "path": "studymaterials\\courses\\index.html",
+      "old": true
+    },
+    {
+      "path": "studymaterials\\modules\\index.html",
+      "old": true
+    },
+    {
+      "path": "studymaterials\\notes-mindmaps\\index.html",
+      "old": true
+    },
+    {
+      "path": "studymaterials\\others\\index.html",
+      "old": true
+    },
+    {
+      "path": "studymaterials\\pyq-solving\\index.html",
+      "old": true
+    },
+    {
+      "path": "studymaterials\\test-series\\index.html",
+      "old": true
+    }
+  ]
+}
