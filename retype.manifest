@@ -1,6 +1,6 @@
 {
   "version": "3.6.0",
-  "created": "2025-01-23T13:22:07Z",
+  "created": "2025-01-24T07:40:51Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -10,6 +10,9 @@
     },
     {
       "path": "backup\\index.html"
+    },
+    {
+      "path": "banner.jpg"
     },
     {
       "path": "CNAME"
@@ -50,6 +53,9 @@
     },
     {
       "path": "introduction\\neet\\index.html"
+    },
+    {
+      "path": "introduction\\notifications\\index.html"
     },
     {
       "path": "introduction\\registration\\index.html"
@@ -109,7 +115,8 @@
       "path": "study-materials\\notes-mindmaps\\index.html"
     },
     {
-      "path": "study-materials\\others\\index.html"
+      "path": "study-materials\\others\\index.html",
+      "old": true
     },
     {
       "path": "study-materials\\pyq-solving\\index.html"

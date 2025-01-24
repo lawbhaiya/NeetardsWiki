@@ -4,6 +4,17 @@ url: jeetardswiki.in
 branding:
   title: NeetardsWiki
   label: 
+
+
+
+edit:
+  repo: "https://github.com/lawbhaiya/NeetardsWiki"                    # The URL to source files for this project
+  base: ""                    # Optional base path to a directory within repo
+  branch: ""                  # Point to a custom branch within the repo
+  label: "Edit this page"     # A custom label for the generated link
+
+
+
 links:
 - text: Reddit
   link: https://www.reddit.com/r/JEENEETards/
