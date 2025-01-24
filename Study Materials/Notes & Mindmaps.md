@@ -1,5 +1,0 @@
----
-order: 
-icon: triangle-right
-
----

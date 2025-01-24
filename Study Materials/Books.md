@@ -34,7 +34,7 @@ icon: triangle-right
 
 
 
-- <a href="" target="_blank"></a>
+
 
 
 ===
