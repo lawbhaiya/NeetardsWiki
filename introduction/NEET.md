@@ -10,4 +10,4 @@ The National Eligibility cum Entrance Test (NEET) is a crucial examination in In
 
 **Who Conducts NEET?**
 
-JEE is conducted by the National Testing Agency (NTA) under the ministry of Education. It is an independent testing agency working under the Societies Registration Act (1860) to conduct effective and standardised tests to evaluate the proficiencies of applicants for admission to top learning institutions. 
+NEET is conducted by the National Testing Agency (NTA) under the ministry of Education. It is an independent testing agency working under the Societies Registration Act (1860) to conduct effective and standardised tests to evaluate the proficiencies of applicants for admission to top learning institutions. 
